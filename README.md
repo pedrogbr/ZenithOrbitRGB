@@ -72,6 +72,6 @@ As opções de contribuição estão disponíveis dentro do aplicativo.
 
 **Zenithworks**
 
-Este repositório distribui o APK Release assinado, otimizado e ofuscado com R8. A ofuscação dificulta a análise, mas não torna engenharia reversa impossível. O código-fonte do aplicativo, as chaves e o mapa de ofuscação não estão disponibilizados.
+Distribuição somente do APK.
 
 Projeto independente, sem afiliação com Xiaomi ou POCO.
