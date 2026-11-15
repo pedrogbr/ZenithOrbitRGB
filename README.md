@@ -4,14 +4,17 @@ Personalize a iluminação RGB traseira de aparelhos POCO/HyperOS compatíveis.
 
 ## 📥 Download oficial
 
-**[Baixar a versão Beta atual — beta-187](https://github.com/pedrogbr/ZenithOrbitRGB/releases/tag/beta-187)**
+**[Baixar a versão Beta atual — beta-198](https://github.com/pedrogbr/ZenithOrbitRGB/releases/tag/beta-198)**
 
-Na página da versão, abra **Assets** e baixe o arquivo `.apk`.
+Na página da versão, abra **Assets** e baixe **`ZenithOrbitRGB-Beta-198.apk`**.
+
+**English:** Download the APK from the release above. On the Home screen, choose **Idioma / Language → English**.
 
 O aplicativo continua em Beta. Consulte as notas da publicação para conhecer novidades, compatibilidade e limitações.
 
 ## ✨ Recursos
 
+- Oito idiomas no Início: Português, Inglês, Espanhol, Francês, Alemão, Italiano, Russo e Indonésio, além de seleção automática.
 - Cores, brilho, velocidade e efeitos organizados por categoria.
 - Sete experiências dinâmicas com interação por gestos e movimentos.
 - LED Studio guiado para criar, visualizar, salvar e compartilhar sequências.
@@ -23,15 +26,17 @@ O aplicativo continua em Beta. Consulte as notas da publicação para conhecer n
 
 ## 🔄 Atualização de versões anteriores
 
-Esta versão utiliza uma **nova chave de assinatura** e não instala diretamente sobre versões assinadas com a chave anterior.
+**A beta-198 mantém a mesma assinatura da beta-187 oficial:** você pode atualizar por cima, sem desinstalar nem apagar suas configurações.
 
-Antes de desinstalar, exporte um backup pelo app, se disponível, ou anote suas configurações. Depois, desinstale a versão antiga e instale o novo APK.
+Versões antigas ou builds de teste com outra assinatura podem exigir reinstalação.
+
+Somente se houver incompatibilidade de assinatura, exporte um backup pelo app, se disponível, ou anote suas configurações antes de desinstalar. Depois, reinstale o APK oficial.
 
 **A desinstalação remove os dados locais do aplicativo.**
 
 ## ⚠️ Play Protect
 
-Em alguns aparelhos, o Play Protect pode bloquear a instalação desta versão e mostrar “O app não foi instalado”.
+Na beta-187, houve relatos de bloqueio da instalação manual pelo Play Protect com a mensagem “O app não foi instalado”. Isso não comprova bloqueio universal da beta-198 nem aprovação pela Google.
 
 Se isso acontecer e você optar por prosseguir, pode ser necessário desativar temporariamente a verificação em:
 
@@ -67,6 +72,6 @@ As opções de contribuição estão disponíveis dentro do aplicativo.
 
 **Zenithworks**
 
-Este repositório distribui o APK. O código-fonte do aplicativo não está disponibilizado.
+Este repositório distribui o APK Release assinado, otimizado e ofuscado com R8. A ofuscação dificulta a análise, mas não torna engenharia reversa impossível. O código-fonte do aplicativo, as chaves e o mapa de ofuscação não estão disponibilizados.
 
 Projeto independente, sem afiliação com Xiaomi ou POCO.
